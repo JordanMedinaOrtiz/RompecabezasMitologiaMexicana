@@ -1,0 +1,30 @@
+1	¿Quién es el dios de la dualidad?	Ometeotl
+2	¿Quién es el dios de la muerte y el Señor del Mictlán?	Mictlantecuhtli
+3	¿Quién es la diosa de la muerte, Señora del Mictlán y esposa de Mictlantecuhtli?	Mictecacihuatl
+4	¿Cuáles son las deidades creadoras en la mitología azteca?	Ometecuhtli y Omecihuatl
+5	¿Quién es el dios de la abundancia, el amor y la riqueza?	Xipe Totec
+6	¿Quién es el dios de la vida y la sabiduría?	Quetzalcoatl
+7	¿Quién es el dios de la guerra?	Huitzilopochtli
+8	¿Quién es el dios de la astrología y los calendarios?	Cipactonal
+9	¿Quién es la diosa de la fertilidad?	Coatlicue
+10	¿Quién es el dios protector de los caminos nocturnos?	Tlacotzontli
+11	¿Quién es el dios del cielo y la tierra, además de fuente de la vida?	Yaotl
+12	¿Quién es el dios de los mercaderes y viajeros?	Yacatecuhtli
+13	¿Quién es el dios del sustento?	Centeotl
+14	¿Quién es el dios de los pescadores y de los lagos?	Amimitl
+15	¿Quién es el dios del amor, la belleza, la danza y el placer?	Xochipilli
+16	¿Quién es el dios del sol?	Tonatiuh
+17	¿Quién es el dios de la lluvia, los terremotos y el rayo?	Tlaloc
+18	¿Quién es el dios de la medicina y los festivales?	Ixtlilton
+19	 ¿Cuáles son los cuatro dioses del maíz?	Cinteteo
+20	¿Quién es la diosa de la luna?	Meztli
+21	¿Quién es el dios de las tempestades, la guerra y la caza?	Mixcoatl
+22	¿Quién es el dios del viento?	Ehecatl
+23	¿Quién es el dios del fuego y del calor?	Xiuhtecuhtli
+24	¿Quién es el dios del maguey?	Mayahuel
+25	¿Quién es la diosa de la sequía y la desesperanza?	Atlacoya
+26	¿Quién es la diosa de los tesoros personales?	Chantico
+27	¿Quién es la diosa de la vegetación?	Chicomecoatl
+28	¿Quién es la diosa de los nacimientos y patrona de los médicos y las parteras?	Cihuacoatl
+29	¿Quién es el dios de la música y patrón de la sexualidad?	Huehuecoyotl
+30	¿Quién es la diosa del amor en la religión azteca?	Tlazolteotl

@@ -1,0 +1,13 @@
+1	El juego consta de un total de 30 preguntas sobre deidades de la mitología mexicana.
+10	De estas, se seleccionarán aleatoriamente 15 preguntas para ser respondidas por el jugador.
+2	Cada jugador comienza con una puntuación base de 100 puntos.
+3	Cuando un jugador responde correctamente una pregunta, se le otorgan 10 puntos.
+4	Por cada respuesta incorrecta, se restan 5 puntos de la puntuación."
+5	El jugador tiene un margen de error de 3 preguntas.
+10	Si se equivoca en la cuarta pregunta, pierde la oportunidad de completar el rompecabezas
+10	y se le aplica una penalización adicional (-50% de sus puntos actuales).
+6	El objetivo es responder preguntas correctamente para acumular puntos y completar el
+10	rompecabezas con éxito.
+7	Si el jugador completa el rompecabezas, recibe una bonificación de 50 puntos.
+8	El jugador debe seleccionar la dificultad del juego al inicio: Fácil o Difícil.
+9	En la dificultad Difícil, se dispone preguntas de opción abierta.
